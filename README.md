@@ -1,2 +1,2 @@
 # PhlilipsHueHomeConsoleApp
- A basic PhilipsHue console app 🤡
+ A basic PhilipsHue console app
